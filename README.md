@@ -1,2 +1,12 @@
 # Speech-to-Text-Translation-website-
-AI-powered speech translation web app using RNN, FastAPI (Python backend), and a simple HTML, CSS, JavaScript frontend. Upload an audio file to get real-time translations.
+Speech-to-Text Translation API
+A Flask-based web application that converts audio speech to text and translates it to Hindi. This API provides a seamless solution for audio processing and language translation using Google's speech recognition and translation services.
+
+
+Features:-
+Audio file upload handling with size restrictions (16MB max)
+Speech-to-text conversion using Google Speech Recognition
+Automatic language detection and translation to Hindi
+Clean file management with automatic cleanup
+Simple web interface
+RESTful API endpoint for audio translation
